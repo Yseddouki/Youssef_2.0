@@ -1,0 +1,27 @@
+h1{
+
+	font-size: 40px;
+	color: red;
+	padding-left: 450px;
+}
+
+h2{
+	font-size: 30px;
+	color: green;
+	padding-left: 65px;
+	padding-right: 50px;
+}
+
+p{
+	font-size: 20px;
+	color: white;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+p.welcome{
+	font-size: 30px;
+}
+
+body{
+	background: url(https://www.museedelaguerre.ca/premiereguerremondiale/wp-content/mcme-uploads/2014/07/19710261-01611.jpg);
+}
